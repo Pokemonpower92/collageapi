@@ -1,0 +1,5 @@
+{
+    "name": "collageapi-dev",
+    "dockerFile": "./Dockerfile",
+	"initializeCommand": "ls"
+}
